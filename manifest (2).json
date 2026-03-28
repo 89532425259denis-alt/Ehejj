@@ -1,0 +1,22 @@
+{
+  "name": "DEVO Music Pro",
+  "short_name": "DEVO Music",
+  "description": "Музыкальный плеер с офлайн режимом и VK интеграцией",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/000000/ffffff?text=DEVO",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/000000/ffffff?text=DEVO",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
